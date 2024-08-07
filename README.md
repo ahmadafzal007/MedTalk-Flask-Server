@@ -61,7 +61,7 @@ Click on the image to view the demo video.
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Python](https://www.python.org/downloads/)
-- Required libraries and dependencies (listed in `requirements.txt` and `package.json`)
+
 
 ### Installation
 
